@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7SMusic.in",7S Music (576p) [Not 24/7]
+EXTINF:-1 tvg-id="JJ News Tamil",JJ News Tamil
+https://live.skystream.in/live/jjnewstamil/index.m3u8
+EXTINF:-1 tvg-id="7SMusic.in",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in",9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
